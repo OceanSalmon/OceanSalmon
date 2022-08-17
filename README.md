@@ -8,6 +8,6 @@ Design Team: 심고은, 송하민, 홍지영
 Marketing Team: 이경령
 
 ## Products
-~~[Play Routine]: 업데이트 중단 ~~  
+~~[Play Routine]: 업데이트 중단~~  
 [Orange Day]: 서비스중  
 [Pebbles]: 서비스 준비중  
