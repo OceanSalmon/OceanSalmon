@@ -1,11 +1,9 @@
-# OceanSalmon
+# Pbbz
 
 ## Members
 Leader: 김두형  
-PM: 이대성  
-Dev Team: 오규찬, 김무성, 김선욱  
-Design Team: 심고은, 송하민, 홍지영  
-Marketing Team: 이경령
+Dev Team: 오규찬  
+Design Team: 심고은, 송하민  
 
 ## Products
 ~~[Play Routine]: 업데이트 중단~~  
